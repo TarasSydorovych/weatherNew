@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+.city{
+      
+    background-color: #ffffff;
+    width: 28%;
+    height: 100vh;
+    
+
+    box-shadow: 5px 8px 26px #dddddd;
+    z-index: 1;
+    padding: 0px;
+}
+.search {
+    margin-top: 30px;
+}
+.search input {
+    background: #f6f6f8;
+    border: none;
+    width: 70%;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 25px;
+    margin-right: 5px;
+}
+.clouds {
+    
+    
+}
+.iconCloud{
+    color: #cfcfd3;
+    font-size: 250px;
+    
+}
+.cityTemp{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: #181818;
+    margin-right: 50%;
+   
+    
+}
+.cityLoc{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #181818;
+    margin-right: 50%;
+}
